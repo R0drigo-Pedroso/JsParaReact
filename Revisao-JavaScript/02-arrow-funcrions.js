@@ -85,7 +85,6 @@ console.log('===================================================================
 - Monte uma Arrow function que recebe uma nome de pessoa e a converta para letras Maiúscilas.
 - Chame a função 3x (passando nomes diferentes) e exibindo no console os resultados
 */
-
 const oi = nome => {
     console.log('Bem vindo ' + nome.toUpperCase() + '!');
 }
