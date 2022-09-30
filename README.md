@@ -8,8 +8,13 @@
 -Modulos externos (importação e exportação)
 -Classes (Propriedade e Métodos usando Orientação a Objetos)
 -Operador ... (spread ou rest)
-    * Spread (espalhar): Usado para dividir elementos de um array ou propriedade de um objeto. 
-    * Rest (resto, sobra, residuo): Usado para mesclar uma lista de parâmentros de funções como um array.
+    *Spread (espalhar): Usado para dividir elementos de um array ou propriedade de um objeto.*
+    *Rest (resto, sobra, residuo): Usado para mesclar uma lista de parâmentros de funções como um array.*
+-Métodos/Funções para Array
+    *map*
+    *filter*
+    *reduce*
+-async/await (Sintaxe para comunicação asssincrona [ajax]).
 
 ## Versões do JS
 https://www.w3schools.com/js/js_versions.asp
